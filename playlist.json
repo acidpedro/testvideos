@@ -1,0 +1,34 @@
+{
+  "playlist": [
+    {
+      "id": "1",
+      "title": "Big Buck Bunny",
+      "url": "https://github.com/acidpedro/testvideos/raw/main/BigBuckBunnyCut.mp4",
+      "duration": 10,
+      "type": "mp4"
+    },
+    {
+      "id": "2",
+      "title": "Elephants Dream",
+      "url": "https://github.com/acidpedro/testvideos/raw/main/ElephantsDreamCut.mp4",
+      "duration": 10,
+      "type": "mp4"
+    },
+    {
+      "id": "3",
+      "title": "For Bigger Blazes",
+      "url": "https://github.com/acidpedro/testvideos/raw/main/ForBiggerBlazesCut.mp4",
+      "duration": 10,
+      "type": "mp4"
+    },
+    {
+      "id": "4",
+      "title": "Cute Kitten",
+      "url": "https://loremflickr.com/1920/1080",
+      "duration": 10,
+      "type": "image"
+    }
+  ],
+  "version": "1.2",
+  "lastUpdated": "2024-07-03T15:00:00Z"
+}
