@@ -20,13 +20,6 @@
       "url": "https://github.com/acidpedro/testvideos/raw/main/ForBiggerBlazesCut.mp4",
       "duration": 10,
       "type": "mp4"
-    },
-    {
-      "id": "4",
-      "title": "Cute Kitten",
-      "url": "https://github.com/acidpedro/testvideos/raw/main/1080.png",
-      "duration": 10,
-      "type": "image"
     }
   ],
   "version": "1.2",
